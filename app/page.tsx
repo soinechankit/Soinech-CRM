@@ -45,7 +45,7 @@ export default async function HomePage() {
               <Cpu className="h-4 w-4 text-white" />
             </div>
             <div className="flex flex-col justify-center">
-              <span className="text-sm sm:text-base font-bold leading-none tracking-tight">Soinech<span className="text-blue-600">Hub</span></span>
+              <span className="text-sm sm:text-base font-bold leading-none tracking-tight">Soinech<span className="text-blue-600">Employee</span></span>
               <span className="text-[9px] uppercase tracking-tighter text-slate-500 font-bold">Workspace</span>
             </div>
           </div>
